@@ -200,4 +200,4 @@ java SupplyChainApp
 
 ## 🔥Author:
 
-[**Bhavisha Ghatwal**](https://github.com/BhavishaGhatwal-10/Chain-Management))
+[**Bhavisha Ghatwal**](https://github.com/BhavishaGhatwal-10/Chain-Management)
