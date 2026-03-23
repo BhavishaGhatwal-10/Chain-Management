@@ -6,7 +6,7 @@ This project models core supply chain entities such as products, suppliers, ware
 
 ---
 
-## 📦 Features
+## 📦 Features:
 
 * Product inventory management
 * Supplier product catalog
@@ -17,7 +17,7 @@ This project models core supply chain entities such as products, suppliers, ware
 
 ---
 
-## 🧱 Project Structure
+## 🧱 Project Structure:
 
 The application consists of the following classes:
 
@@ -124,7 +124,7 @@ Entry point of the application.
 
 ---
 
-## ▶️ How It Works
+## ▶️ How It Works?
 
 1. A supplier is created
 2. Products are created and assigned to the supplier
@@ -137,7 +137,7 @@ Entry point of the application.
 
 ---
 
-## 🖥️ Sample Output
+## 🖥️ Sample Output:
 
 ```
 Warehouse Inventory:
@@ -154,14 +154,14 @@ Phone : 100
 
 ---
 
-## 🛠️ Requirements
+## 🛠️ Requirements:
 
 * Java 8 or higher
 * Any Java IDE (IntelliJ IDEA, Eclipse, VS Code) or terminal
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run?
 
 ### Compile
 
@@ -177,7 +177,7 @@ java SupplyChainApp
 
 ---
 
-## 🎯 Concepts Demonstrated
+## 🎯 Concepts Demonstrated:
 
 * Object-Oriented Programming (OOP)
 * Encapsulation
@@ -187,7 +187,7 @@ java SupplyChainApp
 
 ---
 
-## 📌 Possible Enhancements
+## 📌 Possible Enhancements:
 
 * Add database integration
 * Implement user interface (GUI/Web)
@@ -198,9 +198,6 @@ java SupplyChainApp
 
 ---
 
-## 📄 License
+## 🔥Author:
 
-This project is for educational purposes.
-
----
-
+[**Bhavisha Ghatwal**](https://github.com/BhavishaGhatwal-10/Chain-Management))
